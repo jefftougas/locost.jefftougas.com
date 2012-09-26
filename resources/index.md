@@ -2,7 +2,7 @@
 author: Jeff
 title: Resources
 excerpt:
-layout: default
+layout: post
 ---
 This is an ongoing compilation of online resources that I’ve found useful. Hopefully they’ll help you out or provide more insight at least into my build.
 

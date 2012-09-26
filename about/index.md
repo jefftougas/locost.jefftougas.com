@@ -2,8 +2,10 @@
 author: Jeff
 title: About
 excerpt:
-layout: default
+layout: post
 ---
+Filler text
+
 ## What is a ‘Locost’ and why build one?
 
 ![ss][1]A very good question!  A locost is any home built lotus 7 replica.  From wikipedia, a Lotus 7 is a small, simple, lightweight two-seater open-top sports car produced by Lotus Cars (initially called Lotus Engineering) between 1957 and 1972.  Due to their simplicity, it is well within reach for most people with some garage space and a whole lot of time to build one.  Some choose to build completely from scratch, as I have, and some purchase “kits” that provide various levels of completion.  Scratch-built lotus 7′s also tend to be quite affordable (hence the nick name ‘locost’), considering the level of performance you can achieve with one.  My budget goal is $6-$7k, and with that I’ll have a car that ought to out perform most production sports cars, at least it will under 100 mph.  There is much more to this than simply wanting a fast car on the cheap, however.  I’ve had a few sports cars, but in particular I put a ton of time effort and money into one, my 944 Turbo, which I owned for 3 years.  I may well still own it today if it weren’t for me deciding to build a locost.  The problem with it was that no matter how much money I put into it, it wasn’t fast enough.  Even more annoying, was that I could spend multiple thousands of dollars on it and the project of installing whatever new performance part I had just bought would always be relatively short-lived.. One can install an upgraded turbo kit in a weekend!  Where’s the fun in that?  I enjoy driving the car, but I also immensely enjoy working on it.  So, I just spent thousands of dollars on performance part x, it only took a handful of hours to install, and now the car is still not fast enough!?!  Seems like a waste of effort..

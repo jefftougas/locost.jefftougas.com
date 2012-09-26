@@ -1,4 +1,4 @@
-.post {
+.justify {
     text-align: justify;
 }
 
@@ -17,3 +17,31 @@
 .mono {
     color: #AAA;
 }
+
+.post {
+    margin-bottom: 200px;
+
+    img {
+        margin: 0 0 15px 0;
+        border: 1px solid #CFCFCF;
+        padding: 3px;
+        background: #EFEFEF;
+    }
+    p {
+        margin-top: 5px;
+
+        img:nth-child(2n + 1) {
+            float: right;
+            margin-left: 20px;
+            margin-top: 5px;
+        }
+
+        img:nth-child(2n) {
+            float: left;
+            margin-right: 20px;
+            margin-top: 15px;
+        }
+
+    }
+}
+
