@@ -1,0 +1,5 @@
+<ul>
+{% for image in page.gallery %}
+<li><img src="/images{{page.id}}/{{image}}-thumb.jpg" data-fullimage="/images{{page.id}}/{{image}}.jpg"/></li>
+{% endfor %}
+</ul>
