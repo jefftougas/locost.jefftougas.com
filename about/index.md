@@ -2,7 +2,7 @@
 author: Jeff
 title: About
 excerpt:
-layout: page
+layout: default
 ---
 ## What is a ‘Locost’ and why build one?
 

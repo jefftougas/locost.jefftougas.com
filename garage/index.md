@@ -2,6 +2,6 @@
 author: Jeff
 title: Garage
 excerpt:
-layout: page
+layout: default
 ---
 This is a page about my garage setup and tools. Stay tuned.
