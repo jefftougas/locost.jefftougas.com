@@ -15,7 +15,7 @@
 
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"> </script>
    <script src="/js/jquery.colorbox-min.js"> </script>
-   <script src="js/bootstrap.min.js"></script>
+   <script src="/js/bootstrap.min.js"></script>
    <script type="text/javascript">
     jQuery(document).ready(function($){
       $("#gallery a").colorbox({maxWidth:"100%",maxHeight:"100%",opacity:0.8});
@@ -26,10 +26,22 @@
 
 <div class="site container">
   <div class="row">
-      <div class="main-body span8 offset2">
-          <div class="title">
-            <a href="/">LOCOST.JEFFTOUGAS.COM</a>
+      <div class="span8 offset2 title">
+          <h1>{{page.title}}</h1>
+      </div>
+  </div>
+  <div class="row">
+      <div class="span2">
+          <div class="side-nav" data-spy="affix" data-offset-top="108">
+              <ul class="nav nav-list">
+                  <li><a href="/">Home</a></li>
+                  <li><a href="/about">About</a></li>
+                  <li><a href="/garage">Garage</a></li>
+                  <li><a href="/resources">Resources</a></li>
+              </ul>
           </div>
+      </div>
+      <div class="main-body span8">
           
           {{ content }}
           
