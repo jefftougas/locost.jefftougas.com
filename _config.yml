@@ -2,3 +2,4 @@ url: http://locost.jefftougas.com
 name: locost.jefftougas.com
 description: 'Jeffs Locost Build Log'
 permalink: /:title
+exclude: ["README.md"]
