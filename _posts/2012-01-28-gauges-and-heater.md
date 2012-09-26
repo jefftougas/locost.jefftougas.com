@@ -7,6 +7,9 @@ category:
   - General
 tags: [ ]
 post_format: [ ]
+gallery:
+  - IMG_1441
+  - IMG_1442
 ---
 I’ve continued my streak of working a lot in the garage lately, and have made a pretty exciting addition to the car: I finished the gauge cluster! It makes a dramatic visual difference in the way the car looks. I wound up deciding to have the gauge cluster panel screw in with 4 screws from the front, rather than try to go for some fancy hidden fastener approach like I was originally contemplating. I first made a steel frame that just outlined the shape of the gauge cluster panel, and welded that on to the chassis; this serves as the bracket that the gauge cluster panel actually mounts to. After this point, it was just a matter of lining up all the gauges correctly, drilling the holes, grinding/fitting the panel, and mounting it. I haven’t done the other two dashboard panels yet but they will be done in a similar fashion after the car has been driven.
 
@@ -17,3 +20,9 @@ Lastly I mounted the brake bias adjuster and also created/mounted the center con
 The next order of business is to do the brake and fuel lines, and complete those systems 100%. Next time I post I’ll likely have bled the clutch and brake lines and have actual use of those pedals.
 
 Pictures below. Enjoy.
+
+<ul>
+{% for image in page.gallery %}
+<li><img src="/images{{page.id}}/{{image}}-thumb.jpg" data-fullimage="/images{{page.id}}/{{image}}.jpg"/></li>
+{% endfor %}
+</ul>
