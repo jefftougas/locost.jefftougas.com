@@ -9,9 +9,14 @@
    <!--<script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>-->
    <!--<script type="text/javascript">try{Typekit.load();}catch(e){}</script>-->
 
-   <link href="/jesl/jesl.min.css" rel="stylesheet" media="screen" type="text/css">
+   <link href="/css/colorbox.css" rel="stylesheet" media="screen" type="text/css">
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"> </script>
-   <script src="/jesl/jesl.min.js"> </script>
+   <script src="/js/jquery.colorbox-min.js"> </script>
+   <script type="text/javascript">
+    jQuery(document).ready(function($){
+      $("#gallery a").colorbox({maxWidth:"100%",maxHeight:"100%",opacity:0.8});
+    });
+    </script>
 </head>
 <body>
 
