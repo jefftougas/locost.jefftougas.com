@@ -25,14 +25,19 @@
 <body>
 
 <div class="site container">
-  <div class="row">
-      <div class="span8 offset2 title">
+  <div class="row title">
+      <div class="span2">
+          {% if page.date %}
+          <span class="mono title-date">{{ page.date | date_to_string }}</span>
+          {% endif %}
+      </div>
+      <div class="span8">
           <h1>{{page.title}}</h1>
       </div>
   </div>
   <div class="row">
       <div class="span2">
-          <div class="side-nav" data-spy="affix" data-offset-top="108">
+          <div class="side-nav" data-spy="affix" data-offset-top="144">
               <ul class="nav nav-list">
                   <li><a href="/">Home</a></li>
                   <li><a href="/about">About</a></li>
