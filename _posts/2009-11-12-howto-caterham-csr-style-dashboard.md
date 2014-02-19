@@ -36,17 +36,17 @@ The next order of business is the tubes that go from the transmission tunnel to 
 
 That’s about all I’ve done so far on my dash.  As I said before, I’ll update this post as I make more progress, and of course I’ll include up-to-date pictures as well.  The next orders of business are the tubes that go over the passenger compartments, the tubes that go in between the two center tubes, and the actual cover/removable section (this will probably come much later).
 
- [1]: http://locost.jefftougas.com/wp-content/uploads/2009/11/caterham_2.jpg "Caterham CSR Dashboard"
- [2]: http://www.locostusa.com/forums/viewtopic.php?f=35&t=3221
- [3]: http://locost.jefftougas.com/wp-content/uploads/2009/11/caterham_frame.jpg "Caterham Frame"
- [4]: http://www.uscaterham.com/showroom/R500.html
- [5]: http://en.wikipedia.org/wiki/Top_Gear_test_track#The_Power_Board
- [6]: http://locost.jefftougas.com/wp-content/uploads/2009/11/caterham_1.jpg "Dashboard Shot 2"
- [7]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5614.jpg "IMG_5614"
- [8]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5615.jpg "IMG_5615"
- [9]: http://locost.jefftougas.com/wp-content/uploads/2009/10/IMG_5593.jpg "Mocking up the dashboard"
- [10]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5600.jpg "IMG_5600"
- [11]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5616.jpg "In Neutral"
- [12]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5617.jpg "Neutral 2"
- [13]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5619.jpg "4th gear"
- [14]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5618.jpg "3rd gear"
+[1]: http://locost.jefftougas.com/wp-content/uploads/2009/11/caterham_2.jpg "Caterham CSR Dashboard"
+[2]: http://www.locostusa.com/forums/viewtopic.php?f=35&t=3221
+[3]: http://locost.jefftougas.com/wp-content/uploads/2009/11/caterham_frame.jpg "Caterham Frame"
+[4]: http://www.uscaterham.com/showroom/R500.html
+[5]: http://en.wikipedia.org/wiki/Top_Gear_test_track#The_Power_Board
+[6]: http://locost.jefftougas.com/wp-content/uploads/2009/11/caterham_1.jpg "Dashboard Shot 2"
+[7]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5614.jpg "IMG_5614"
+[8]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5615.jpg "IMG_5615"
+[9]: http://locost.jefftougas.com/wp-content/uploads/2009/10/IMG_5593.jpg "Mocking up the dashboard"
+[10]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5600.jpg "IMG_5600"
+[11]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5616.jpg "In Neutral"
+[12]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5617.jpg "Neutral 2"
+[13]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5619.jpg "4th gear"
+[14]: http://locost.jefftougas.com/wp-content/uploads/2009/11/IMG_5618.jpg "3rd gear"
